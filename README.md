@@ -19,6 +19,6 @@ Caso você tenha dúvidas quanto ao que são os testes, e como interpretá-los, 
 
 Para esse desafio temos os seguintes testes:
 
-<b>should add a like to the like counter of the repository:</b> Para que esse teste passe, sua aplicação deve permitir ao clicar no botão Curtir, um like seja adicionado ao repositório listado, e que essa atualização possa ser visualizada na tela.
-📆 Entrega
+<b>should add a like to the like counter of the repository:</b> Para que esse teste passe, sua aplicação deve permitir ao clicar no botão Curtir, um like seja adicionado ao repositório listado, e que essa atualização possa ser visualizada na tela.<br><br>
+<h3>📆 Entrega</h3>
 Esse desafio deve ser entregue a partir da plataforma da Rocketseat, envie o link do repositório que você fez suas alterações. Após concluir o desafio, fazer um post no Linkedin e postar o código no Github é uma boa forma de demonstrar seus conhecimentos e esforços para evoluir na sua carreira para oportunidades futuras.
